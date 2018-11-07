@@ -5,16 +5,6 @@
     "name": "obj_template_controllable",
     "eventList": [
         {
-            "id": "706e3bc6-d317-469b-91c8-fa56f33d63a1",
-            "modelName": "GMEvent",
-            "mvc": "1.0",
-            "IsDnD": false,
-            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 54,
-            "eventtype": 6,
-            "m_owner": "21d4572f-ac43-4f1a-a746-e943024f8dcd"
-        },
-        {
             "id": "b48e9283-aada-41c3-bbce-0f75a2955dbe",
             "modelName": "GMEvent",
             "mvc": "1.0",

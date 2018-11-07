@@ -1,5 +1,5 @@
 /// @description Draw outline if selected
-if (global.selected_object = id)
+if (selected)
 {
 	scr_outline_draw();
 }

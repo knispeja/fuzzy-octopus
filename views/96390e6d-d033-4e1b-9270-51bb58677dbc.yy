@@ -4,7 +4,7 @@
     "mvc": "1.1",
     "name": "96390e6d-d033-4e1b-9270-51bb58677dbc",
     "children": [
-        "5aad79ff-24a9-496a-8a9a-9503bb90686b"
+        "98ee530d-4a11-4ed4-858a-887e6d877772"
     ],
     "filterType": "GMSprite",
     "folderName": "Effects",

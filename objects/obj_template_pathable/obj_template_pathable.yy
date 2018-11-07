@@ -66,7 +66,7 @@
             "rangeMax": 10,
             "rangeMin": 0,
             "resourceFilter": 1023,
-            "value": "9",
+            "value": "30",
             "varName": "path_speed",
             "varType": 0
         }

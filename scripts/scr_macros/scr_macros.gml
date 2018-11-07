@@ -1,2 +1,2 @@
-#macro default_cell_width 64
-#macro default_cell_height 64
+#macro default_cell_width 256
+#macro default_cell_height 256

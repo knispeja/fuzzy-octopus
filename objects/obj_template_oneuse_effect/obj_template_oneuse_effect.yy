@@ -2,7 +2,7 @@
     "id": "d76e879e-cdec-4877-a8af-de4cd3e33ca5",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "obj_template_effect",
+    "name": "obj_template_oneuse_effect",
     "eventList": [
         {
             "id": "0cd00fd6-4588-43b0-9dd1-a7f01f7e9b03",
